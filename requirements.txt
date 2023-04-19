@@ -1,6 +1,8 @@
+nltk
+openpyxl
 numpy
 scipy
-scikit-learn
+scikit-learn==1.2.2
 matplotlib
 pandas
 fastapi
@@ -8,3 +10,6 @@ uvicorn
 gunicorn==19.9.0
 uvloop
 httptools
+requests
+pydantic
+pypi-json
